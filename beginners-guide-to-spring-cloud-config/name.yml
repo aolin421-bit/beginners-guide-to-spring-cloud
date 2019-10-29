@@ -1,11 +1,10 @@
-server:
-  port: 7070
-  
-name: Ryan
-names:
-  - Baxter
-  - Dave
-  - Spencer
-  - Jon
-  - Marcin
-  - Adrian
+server.port: 7070
+custom:
+  name: Ryan
+  names:
+    - Baxter
+    - Dave
+    - Spencer
+    - Jon
+    - Marcin
+    - Adrian
